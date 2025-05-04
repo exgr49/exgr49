@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently In my 3rd Year of Electrical Engineering
+I am an aspiring AI Chip Designer & Embedded Systems Engineer | Passionate about semiconductor innovation, VLSI, FPGA, ASIC and overall SoC design.
+
+I am currently an Electrical Engineering student at TMU (formerly Ryerson) with a strong interest in AI hardware acceleration, Digital and Analog IC design, and embedded systems. My goal is to contribute to the development of high-performance, low-power chips for AI, automation, and next-gen computing.
 
 
 ## 🌐 Socials:
